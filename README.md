@@ -67,9 +67,11 @@ Sistem menampilkan informasi ringkas mengenai informasi-informasi yang berhubung
 
 ## 👥 Kontributor
 
-Backend  : Mutia Casella
+| Nama                   | Peran     | Afiliasi                             |
+|------------------------|-----------|--------------------------------------|
+| Mutia Casella          | Backend   | Teknik Komputer, Universitas Indonesia |
+| Siti Amalia Nurfaidah  | Frontend  | Teknik Komputer, Universitas Indonesia |
 
-Frontend : Siti Amalia Nurfaidah
 
 ---
 
